@@ -1,0 +1,28 @@
+---
+execute:
+  echo: false
+---
+
+# Background:
+
+## Immune Response to *M.tb*:
+
+### Innate Immune Response:
+
+-   First line of defence
+
+-   Alveolar macrophages encounters *M.tb*, phagocytose bacteria, initiates inflammation with release of TNF-⍺ \| IL-1
+
+-   Dendritic cells links the innate immune system and the adaptive immune system by presenting the antigens to the T Lymphocytes
+
+-   Naturally Killer Cells are cytotoxic cells that induce apoptosis of infected macrophages by secreting IFN-γ
+
+### Adaptive Immune Response:
+
+-   T lymphocytes, which is comprised of CD4^+^ & CD8^+^ cells, B lymphocytes
+
+-   CD4^+^ T cells produce IFN-γ \| IL-2 \| TNF-⍺ to active macrophages
+
+-   CD8^+^ T cells destroys *M.tb* infected cells by producing TNF-⍺
+
+-   The role of B cells are being investigated

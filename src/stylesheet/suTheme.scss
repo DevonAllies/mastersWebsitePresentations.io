@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+
+// Stellenbosch University Brand Colours
+$primary:   #61223B; // Confident Maroon
+$secondary: #B79962; // Brilliant Gold
+
+// Optional: Adjust other Bootstrap variables as needed
+$navbar-bg: $primary;
+$navbar-fg: #fff;
+$link-color: $secondary;
+$link-hover-color: darken($secondary, 10%);

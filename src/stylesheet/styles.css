@@ -1,0 +1,29 @@
+.logo-row {
+  display: flex;
+  justify-content: flex-start;   /* start all items at the left */
+  align-items: flex-start;           /* vertical alignment */
+  gap: 40px;                     /* space between logos */
+  width: 100%;                   /* full container width */
+}
+
+.stelliesLogo {
+  width: 400px;                  /* or your preferred size */
+  height: auto;
+  margin-left: -50px;
+}
+
+.diplomicsLogo {
+  width: 400px;                  /* or your preferred size */
+  height: auto;
+  margin-top: -300px;
+  margin-left: auto;             /* pushes this logo to the center/right */
+  margin-right: -200px;            /* keeps it centered if container is wide */
+  display: block;
+}
+
+body.home-bg {
+  background-image: url('background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

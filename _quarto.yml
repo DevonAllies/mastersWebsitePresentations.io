@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "mastersPresentations"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: background.qmd
+        text: Background
+      - href: immunology.qmd
+        text: Immunology
+      - href: summary.qmd
+        text: Summary
+      - href: about.qmd
+        text: About
+
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - src/stylesheet/suTheme.scss
+    toc: true
+
+editor: visual
+

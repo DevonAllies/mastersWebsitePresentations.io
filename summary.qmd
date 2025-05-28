@@ -1,0 +1,17 @@
+---
+echo: false
+---
+
+# Summary & Significance
+
+-   TB remains a global health challenge, with a high burden in South Africa
+
+-   Understanding the genetic factors influencing the progression from LTBI to active TB is crucial for developing effective interventions
+
+-   This research project aims to bridge the gap between genetic variation and protein expression in TB by mapping pQTLs in a South African cohort
+
+-   This study will compare cytokine profiles and identify distinct pQTLs among individuals with LTBI, Active TB, and healthy controls
+
+-   A combination of genetic and immunological analyses will be employed, including whole-genome sequencing and 27 plex Luminex assays ato quantify cytokine levels
+
+-   This project has completed the analysis of sputum and blood samples to determine TB infection status using GeneXpert and IGRA assays.

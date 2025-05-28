@@ -1,0 +1,23 @@
+---
+format:
+  html:
+    other-links:
+      - text: TB Host Genetics
+        href: https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbhostgenetics
+      - text: DIPLOMICS
+        href: https://www.diplomics.org.za/
+      - text: Center for Bioinformatics and Computational Biology
+        href: https://www.sun.ac.za/english/faculty/science/sci-bioinformatics
+---
+
+## Acknowledgements:
+
+-   TB Host Genetics
+
+-   Supervisors
+
+-   DIPLOMICS
+
+-   CTR
+
+-   CBCB

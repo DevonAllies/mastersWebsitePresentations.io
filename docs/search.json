@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary & Significance",
+    "section": "",
+    "text": "Summary & Significance\n\nTB remains a global health challenge, with a high burden in South Africa\nUnderstanding the genetic factors influencing the progression from LTBI to active TB is crucial for developing effective interventions\nThis research project aims to bridge the gap between genetic variation and protein expression in TB by mapping pQTLs in a South African cohort\nThis study will compare cytokine profiles and identify distinct pQTLs among individuals with LTBI, Active TB, and healthy controls\nA combination of genetic and immunological analyses will be employed, including whole-genome sequencing and 27 plex Luminex assays ato quantify cytokine levels\nThis project has completed the analysis of sputum and blood samples to determine TB infection status using GeneXpert and IGRA assays."
+  },
+  {
+    "objectID": "immunology.html",
+    "href": "immunology.html",
+    "title": "Background:",
+    "section": "",
+    "text": "First line of defence\nAlveolar macrophages encounters M.tb, phagocytose bacteria, initiates inflammation with release of TNF-⍺ | IL-1\nDendritic cells links the innate immune system and the adaptive immune system by presenting the antigens to the T Lymphocytes\nNaturally Killer Cells are cytotoxic cells that induce apoptosis of infected macrophages by secreting IFN-γ\n\n\n\n\n\nT lymphocytes, which is comprised of CD4+ & CD8+ cells, B lymphocytes\nCD4+ T cells produce IFN-γ | IL-2 | TNF-⍺ to active macrophages\nCD8+ T cells destroys M.tb infected cells by producing TNF-⍺\nThe role of B cells are being investigated"
+  },
+  {
+    "objectID": "immunology.html#immune-response-to-m.tb",
+    "href": "immunology.html#immune-response-to-m.tb",
+    "title": "Background:",
+    "section": "",
+    "text": "First line of defence\nAlveolar macrophages encounters M.tb, phagocytose bacteria, initiates inflammation with release of TNF-⍺ | IL-1\nDendritic cells links the innate immune system and the adaptive immune system by presenting the antigens to the T Lymphocytes\nNaturally Killer Cells are cytotoxic cells that induce apoptosis of infected macrophages by secreting IFN-γ\n\n\n\n\n\nT lymphocytes, which is comprised of CD4+ & CD8+ cells, B lymphocytes\nCD4+ T cells produce IFN-γ | IL-2 | TNF-⍺ to active macrophages\nCD8+ T cells destroys M.tb infected cells by producing TNF-⍺\nThe role of B cells are being investigated"
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Background:",
+    "section": "",
+    "text": "TB is a respiratory disease caused by Mycobacterium tuberulosis (M.tb)\nWHO estimates that 25% of global population is infected with M.tb\nSouth Africa has a high burden\n\n\n\n\n\n                        \n                                            \n\n\nFigure 1: The estimated incidence number in South Africa from all forms of TB\n\n\n\n\n\n\n\n\n                        \n                                            \n\n\nFigure 2: The estimated number of deaths in South Africa from all forms of TB\n\n\n\n\n\n\n\nDefinition: An individual that is infected with M.tb but has no clinical symptoms of active disease\nPrimary source for new TB cases\nLTBI -&gt; Active TB occurs in about 5-10% of infected individuals\nFactors influencing progression: Weakened Immune system | Time since infection | Age\nExact mechanism of progression is unknown\n\n\n\n\nWestern Cape TB Stats"
+  },
+  {
+    "objectID": "background.html#latent-tb-infection-ltbi",
+    "href": "background.html#latent-tb-infection-ltbi",
+    "title": "Background:",
+    "section": "",
+    "text": "Definition: An individual that is infected with M.tb but has no clinical symptoms of active disease\nPrimary source for new TB cases\nLTBI -&gt; Active TB occurs in about 5-10% of infected individuals\nFactors influencing progression: Weakened Immune system | Time since infection | Age\nExact mechanism of progression is unknown"
+  },
+  {
+    "objectID": "background.html#tb-infections-in-western-cape",
+    "href": "background.html#tb-infections-in-western-cape",
+    "title": "Background:",
+    "section": "",
+    "text": "Western Cape TB Stats"
+  },
+  {
+    "objectID": "pQTL.html",
+    "href": "pQTL.html",
+    "title": "Introduction to pQTL",
+    "section": "",
+    "text": "Protein Quantitive Trait Loci\npQTL specifically refers to a region of DNA that is associated with the level of quantity of a particular protein\nIn simple terms -&gt; Genetic location that influences how much of a certain protein is produced by the body\nHelps understand how genetic variations influence immune response by affecting protein production (cytokines)\n\n\n\n\nRegion of DNA that is associated with a particular quantitative trait\nEssential identifies a section of genome that influences the degree to which a trait is expressed"
+  },
+  {
+    "objectID": "pQTL.html#definition-of-pqtl",
+    "href": "pQTL.html#definition-of-pqtl",
+    "title": "Introduction to pQTL",
+    "section": "",
+    "text": "Protein Quantitive Trait Loci\npQTL specifically refers to a region of DNA that is associated with the level of quantity of a particular protein\nIn simple terms -&gt; Genetic location that influences how much of a certain protein is produced by the body\nHelps understand how genetic variations influence immune response by affecting protein production (cytokines)\n\n\n\n\nRegion of DNA that is associated with a particular quantitative trait\nEssential identifies a section of genome that influences the degree to which a trait is expressed"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "mastersPresentations",
+    "section": "",
+    "text": "TB Host Genetics\nSupervisors\nDIPLOMICS\nCTR\nCBCB"
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "mastersPresentations",
+    "section": "",
+    "text": "TB Host Genetics\nSupervisors\nDIPLOMICS\nCTR\nCBCB"
+  }
+]

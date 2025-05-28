@@ -1,0 +1,21 @@
+---
+echo: false
+---
+
+# Introduction to pQTL
+
+## Definition of pQTL:
+
+-   Protein Quantitive Trait Loci
+
+-   pQTL specifically refers to a region of DNA that is associated with the level of quantity of a particular protein
+
+-   In simple terms -\> Genetic location that influences how much of a certain protein is produced by the body
+
+-   Helps understand how genetic variations influence immune response by affecting protein production (cytokines)
+
+### Quantitative Trait Loci:
+
+-   Region of DNA that is associated with a particular quantitative trait
+
+-   Essential identifies a section of genome that influences the degree to which a trait is expressed

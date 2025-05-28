@@ -1,0 +1,76 @@
+---
+execute:
+  echo: false
+---
+
+# Background:
+
+-   TB is a respiratory disease caused by *Mycobacterium tuberulosis* (*M.tb*)
+
+-   WHO estimates that 25% of global population is infected with *M.tb*
+
+-   South Africa has a high burden
+
+    ```{r}
+    library(reticulate)
+    ```
+
+    ```{python}
+
+    import pandas as pd
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    import plotly.express as px
+    import scienceplots
+    import matplotlib.ticker as ticker
+    import folium
+
+    # Set sns style
+    plt.style.use(['science', 'nature'])
+
+    who = pd.read_csv('src/data/TB_burden_countries_2025-05-07.csv')
+    ```
+
+```{python}
+#| label: fig-SouthAfrica
+#| fig-cap: 'The estimated incidence number in South Africa from all forms of TB'
+
+southafrica = who[(who['country'] == 'South Africa') & (who['year'].between(2020, 2024))]
+
+fig = px.line(southafrica, x='year', y='e_inc_num', title='Estimated Number of Incident Cases in South Africa', width=1000, height=700, labels={'year': 'Year', 'e_inc_num': 'Number of Incidence'})
+fig.update_xaxes(tickvals=[2020, 2021, 2022, 2023])
+```
+
+```{python}
+#| label: fig-DeathsSouthAfrica
+#| fig-cap: 'The estimated number of deaths in South Africa from all forms of TB'
+
+deathSouthAfrica = who[(who['country'] == 'South Africa') & (who['year'].between(2020, 2024))]
+
+figD = px.line(deathSouthAfrica, 
+               x='year', 
+               y='e_mort_num', 
+               title='Estimated Number of Deaths in South Africa', 
+               width=1000, 
+               height=700, 
+               labels={'year': 'Year', 
+                       'e_mort_num': 'Number of Deaths'})
+figD.update_xaxes(tickvals=[2020, 2021, 2022, 2023])
+```
+
+## Latent TB Infection (LTBI)
+
+-   Definition: An individual that is infected with *M.tb* but has no clinical symptoms of active disease
+
+-   Primary source for new TB cases
+
+-   LTBI -\> Active TB occurs in about 5-10% of infected individuals
+
+-   Factors influencing progression: Weakened Immune system \| Time since infection \| Age
+
+-   Exact mechanism of progression is unknown
+
+## TB Infections in Western Cape:
+
+[Western Cape TB Stats](https://www.westerncape.gov.za/health-wellness/provincial-tb-dashboard)

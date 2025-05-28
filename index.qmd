@@ -1,0 +1,33 @@
+---
+title: "mastersPresentations"
+
+author:
+  - name: Devon Allies
+    affiliation: 
+      - name: TB Host Genetics | Molecular Biology & Human Genetics | Stellenbosch University
+    degrees:
+      - BSc.Hons
+    url: https://www.linkedin.com/in/devonallies/
+    orcid: 0000-0001-8928-4334
+    email: 14467127@sun.ac.za
+  - name: C. Uren
+    degrees:
+      - PhD
+    url: https://www.linkedin.com/in/caitlin-uren/
+    orcid: 0000-0003-2358-0135
+  - name: A. Loxton
+    degrees:
+      - Professor
+    url: https://www.linkedin.com/in/andre-g-loxton-b80a514/
+    orcid: 0000-0003-0659-9803
+  - name: D. Petersen
+    degrees:
+      - Professor
+    url: https://www.linkedin.com/in/desiree-petersen-03ab6b83/
+    orcid: 0000-0002-0817-2574
+  - name: M. Möller
+    degrees:
+      - Professor
+    url: https://www.linkedin.com/in/marlo-m%C3%B6ller-8b20b021/
+    orcid: 0000-0002-0805-6741
+---
