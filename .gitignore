@@ -3,6 +3,5 @@
 .Rhistory
 .Rdata
 .DS_Store
-*.html
 *.pdf
 *.ipynb
